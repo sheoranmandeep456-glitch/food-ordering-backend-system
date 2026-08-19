@@ -1,3 +1,4 @@
+
 # Food Ordering Backend (FastAPI)
 
 A backend for a food ordering platform: user auth, restaurants, menus, cart, and order lifecycle management.
@@ -73,3 +74,6 @@ Visit `http://127.0.0.1:8000/docs` for interactive Swagger UI.
 - Search/filtering (by cuisine, price range, rating) and pagination on list endpoints
 - Reviews/ratings model
 - Background job queue (Celery/RQ) for notification emails, order timeout handling
+- <img width="1911" height="1020" alt="Screenshot 2026-08-19 132850" src="https://github.com/user-attachments/assets/113851e7-2f01-4811-8228-51ca8030dc94" />
+<img width="1918" height="1021" alt="Screenshot 2026-08-19 132904" src="https://github.com/user-attachments/assets/1c82f81d-929d-454b-9d70-502b3650b2ad" />
+<img width="1918" height="1019" alt="Screenshot 2026-08-19 132918" src="https://github.com/user-attachments/assets/a978c261-7bcf-44ce-8b23-a06f651a7b87" />
